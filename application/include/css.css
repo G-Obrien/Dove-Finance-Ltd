@@ -1,0 +1,9 @@
+  p{
+    color:black;
+    font-weight:900;
+    font-size:26px;
+    font-family:sans;
+  }
+  .bg-grey{
+    background: rgba(202, 202, 199, 0.781);
+  }
